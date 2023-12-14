@@ -1,6 +1,6 @@
-# hormones-right
+# HormonesRight
 
-# Welcome to HormonesRight, a website that will help you take care of your hormonal balance.
+## Welcome to HormonesRight, a website that will help you take care of your hormonal balance.
 
-# TOOLS
+## TOOLS
 Python | Django
